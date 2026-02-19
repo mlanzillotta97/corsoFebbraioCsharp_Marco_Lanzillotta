@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\bin\Debug\net10.0\eserMetodi.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\bin\Debug\net10.0\eserMetodi.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\bin\Debug\net10.0\eserMetodi.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\bin\Debug\net10.0\eserMetodi.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\bin\Debug\net10.0\eserMetodi.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\obj\Debug\net10.0\eserMetodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\obj\Debug\net10.0\eserMetodi.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\obj\Debug\net10.0\eserMetodi.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\obj\Debug\net10.0\eserMetodi.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\obj\Debug\net10.0\eserMetodi.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\obj\Debug\net10.0\eserMetodi.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\obj\Debug\net10.0\refint\eserMetodi.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\obj\Debug\net10.0\eserMetodi.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\obj\Debug\net10.0\eserMetodi.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_19_Febbraio\pomeriggio\eserMetodi\obj\Debug\net10.0\ref\eserMetodi.dll

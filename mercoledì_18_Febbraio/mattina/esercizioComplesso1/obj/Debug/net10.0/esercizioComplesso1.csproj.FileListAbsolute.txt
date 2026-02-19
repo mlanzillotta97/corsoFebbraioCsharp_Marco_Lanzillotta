@@ -1,0 +1,14 @@
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\bin\Debug\net10.0\esercizioComplesso1.exe
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\bin\Debug\net10.0\esercizioComplesso1.deps.json
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\bin\Debug\net10.0\esercizioComplesso1.runtimeconfig.json
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\bin\Debug\net10.0\esercizioComplesso1.dll
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\bin\Debug\net10.0\esercizioComplesso1.pdb
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\obj\Debug\net10.0\esercizioComplesso1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\obj\Debug\net10.0\esercizioComplesso1.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\obj\Debug\net10.0\esercizioComplesso1.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\obj\Debug\net10.0\esercizioComplesso1.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\obj\Debug\net10.0\esercizioComplesso1.dll
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\obj\Debug\net10.0\refint\esercizioComplesso1.dll
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\obj\Debug\net10.0\esercizioComplesso1.pdb
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\obj\Debug\net10.0\esercizioComplesso1.genruntimeconfig.cache
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\esercizioComplesso1\obj\Debug\net10.0\ref\esercizioComplesso1.dll

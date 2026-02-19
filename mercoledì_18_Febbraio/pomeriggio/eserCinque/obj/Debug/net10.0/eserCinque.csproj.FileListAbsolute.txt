@@ -1,0 +1,14 @@
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\bin\Debug\net10.0\eserCinque.exe
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\bin\Debug\net10.0\eserCinque.deps.json
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\bin\Debug\net10.0\eserCinque.runtimeconfig.json
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\bin\Debug\net10.0\eserCinque.dll
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\bin\Debug\net10.0\eserCinque.pdb
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\obj\Debug\net10.0\eserCinque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\obj\Debug\net10.0\eserCinque.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\obj\Debug\net10.0\eserCinque.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\obj\Debug\net10.0\eserCinque.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\obj\Debug\net10.0\eserCinque.dll
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\obj\Debug\net10.0\refint\eserCinque.dll
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\obj\Debug\net10.0\eserCinque.pdb
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\obj\Debug\net10.0\eserCinque.genruntimeconfig.cache
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\eserCinque\obj\Debug\net10.0\ref\eserCinque.dll

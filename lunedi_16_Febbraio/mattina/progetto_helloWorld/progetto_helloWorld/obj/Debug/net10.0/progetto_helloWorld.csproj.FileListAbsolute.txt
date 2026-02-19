@@ -1,0 +1,14 @@
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\bin\Debug\net10.0\progetto_helloWorld.exe
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\bin\Debug\net10.0\progetto_helloWorld.deps.json
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\bin\Debug\net10.0\progetto_helloWorld.runtimeconfig.json
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\bin\Debug\net10.0\progetto_helloWorld.dll
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\bin\Debug\net10.0\progetto_helloWorld.pdb
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\obj\Debug\net10.0\progetto_helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\obj\Debug\net10.0\progetto_helloWorld.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\obj\Debug\net10.0\progetto_helloWorld.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\obj\Debug\net10.0\progetto_helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\obj\Debug\net10.0\progetto_helloWorld.dll
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\obj\Debug\net10.0\refint\progetto_helloWorld.dll
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\obj\Debug\net10.0\progetto_helloWorld.pdb
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\obj\Debug\net10.0\progetto_helloWorld.genruntimeconfig.cache
+C:\Users\Marco\Desktop\Corso C#\lunedi_16_Febbraio\mattina\progetto_helloWorld\progetto_helloWorld\obj\Debug\net10.0\ref\progetto_helloWorld.dll

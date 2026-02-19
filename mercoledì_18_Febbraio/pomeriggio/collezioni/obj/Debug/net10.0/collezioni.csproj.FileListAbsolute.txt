@@ -1,0 +1,14 @@
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\bin\Debug\net10.0\collezioni.exe
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\bin\Debug\net10.0\collezioni.deps.json
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\bin\Debug\net10.0\collezioni.runtimeconfig.json
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\bin\Debug\net10.0\collezioni.dll
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\bin\Debug\net10.0\collezioni.pdb
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\obj\Debug\net10.0\collezioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\obj\Debug\net10.0\collezioni.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\obj\Debug\net10.0\collezioni.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\obj\Debug\net10.0\collezioni.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\obj\Debug\net10.0\collezioni.dll
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\obj\Debug\net10.0\refint\collezioni.dll
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\obj\Debug\net10.0\collezioni.pdb
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\obj\Debug\net10.0\collezioni.genruntimeconfig.cache
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\pomeriggio\collezioni\obj\Debug\net10.0\ref\collezioni.dll

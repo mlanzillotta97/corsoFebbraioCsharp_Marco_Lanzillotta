@@ -1,0 +1,14 @@
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\bin\Debug\net10.0\progetto_es_01.exe
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\bin\Debug\net10.0\progetto_es_01.deps.json
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\bin\Debug\net10.0\progetto_es_01.runtimeconfig.json
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\bin\Debug\net10.0\progetto_es_01.dll
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\bin\Debug\net10.0\progetto_es_01.pdb
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\obj\Debug\net10.0\progetto_es_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\obj\Debug\net10.0\progetto_es_01.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\obj\Debug\net10.0\progetto_es_01.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\obj\Debug\net10.0\progetto_es_01.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\obj\Debug\net10.0\progetto_es_01.dll
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\obj\Debug\net10.0\refint\progetto_es_01.dll
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\obj\Debug\net10.0\progetto_es_01.pdb
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\obj\Debug\net10.0\progetto_es_01.genruntimeconfig.cache
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\mattina\progetto_es_01\obj\Debug\net10.0\ref\progetto_es_01.dll

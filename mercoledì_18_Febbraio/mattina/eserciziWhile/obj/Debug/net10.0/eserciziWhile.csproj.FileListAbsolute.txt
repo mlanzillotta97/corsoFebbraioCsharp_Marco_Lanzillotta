@@ -1,0 +1,14 @@
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\bin\Debug\net10.0\eserciziWhile.exe
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\bin\Debug\net10.0\eserciziWhile.deps.json
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\bin\Debug\net10.0\eserciziWhile.runtimeconfig.json
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\bin\Debug\net10.0\eserciziWhile.dll
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\bin\Debug\net10.0\eserciziWhile.pdb
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\obj\Debug\net10.0\eserciziWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\obj\Debug\net10.0\eserciziWhile.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\obj\Debug\net10.0\eserciziWhile.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\obj\Debug\net10.0\eserciziWhile.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\obj\Debug\net10.0\eserciziWhile.dll
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\obj\Debug\net10.0\refint\eserciziWhile.dll
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\obj\Debug\net10.0\eserciziWhile.pdb
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\obj\Debug\net10.0\eserciziWhile.genruntimeconfig.cache
+C:\Users\Marco\Desktop\Corso C#\mercoledì_18_Febbraio\mattina\eserciziWhile\obj\Debug\net10.0\ref\eserciziWhile.dll

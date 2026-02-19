@@ -1,0 +1,14 @@
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\bin\Debug\net10.0\nuoviCicli.exe
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\bin\Debug\net10.0\nuoviCicli.deps.json
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\bin\Debug\net10.0\nuoviCicli.runtimeconfig.json
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\bin\Debug\net10.0\nuoviCicli.dll
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\bin\Debug\net10.0\nuoviCicli.pdb
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\obj\Debug\net10.0\nuoviCicli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\obj\Debug\net10.0\nuoviCicli.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\obj\Debug\net10.0\nuoviCicli.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\obj\Debug\net10.0\nuoviCicli.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\obj\Debug\net10.0\nuoviCicli.dll
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\obj\Debug\net10.0\refint\nuoviCicli.dll
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\obj\Debug\net10.0\nuoviCicli.pdb
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\obj\Debug\net10.0\nuoviCicli.genruntimeconfig.cache
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\nuoviCicli\obj\Debug\net10.0\ref\nuoviCicli.dll

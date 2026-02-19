@@ -1,0 +1,14 @@
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\bin\Debug\net10.0\eserciziCondizioni.exe
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\bin\Debug\net10.0\eserciziCondizioni.deps.json
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\bin\Debug\net10.0\eserciziCondizioni.runtimeconfig.json
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\bin\Debug\net10.0\eserciziCondizioni.dll
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\bin\Debug\net10.0\eserciziCondizioni.pdb
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\obj\Debug\net10.0\eserciziCondizioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\obj\Debug\net10.0\eserciziCondizioni.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\obj\Debug\net10.0\eserciziCondizioni.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\obj\Debug\net10.0\eserciziCondizioni.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\obj\Debug\net10.0\eserciziCondizioni.dll
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\obj\Debug\net10.0\refint\eserciziCondizioni.dll
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\obj\Debug\net10.0\eserciziCondizioni.pdb
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\obj\Debug\net10.0\eserciziCondizioni.genruntimeconfig.cache
+C:\Users\Marco\Desktop\Corso C#\martedi_17_Febbraio\pomeriggio\eserciziCondizioni\obj\Debug\net10.0\ref\eserciziCondizioni.dll

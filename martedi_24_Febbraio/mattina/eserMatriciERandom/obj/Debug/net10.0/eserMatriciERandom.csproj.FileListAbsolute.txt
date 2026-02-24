@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\bin\Debug\net10.0\eserMatriciERandom.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\bin\Debug\net10.0\eserMatriciERandom.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\bin\Debug\net10.0\eserMatriciERandom.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\bin\Debug\net10.0\eserMatriciERandom.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\bin\Debug\net10.0\eserMatriciERandom.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\obj\Debug\net10.0\eserMatriciERandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\obj\Debug\net10.0\eserMatriciERandom.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\obj\Debug\net10.0\eserMatriciERandom.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\obj\Debug\net10.0\eserMatriciERandom.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\obj\Debug\net10.0\eserMatriciERandom.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\obj\Debug\net10.0\eserMatriciERandom.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\obj\Debug\net10.0\refint\eserMatriciERandom.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\obj\Debug\net10.0\eserMatriciERandom.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\obj\Debug\net10.0\eserMatriciERandom.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\mattina\eserMatriciERandom\obj\Debug\net10.0\ref\eserMatriciERandom.dll

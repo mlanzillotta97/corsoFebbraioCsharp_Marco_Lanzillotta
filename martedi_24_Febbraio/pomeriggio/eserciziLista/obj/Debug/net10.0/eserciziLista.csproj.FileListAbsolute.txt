@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\bin\Debug\net10.0\eserciziLista.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\bin\Debug\net10.0\eserciziLista.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\bin\Debug\net10.0\eserciziLista.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\bin\Debug\net10.0\eserciziLista.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\bin\Debug\net10.0\eserciziLista.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\obj\Debug\net10.0\eserciziLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\obj\Debug\net10.0\eserciziLista.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\obj\Debug\net10.0\eserciziLista.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\obj\Debug\net10.0\eserciziLista.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\obj\Debug\net10.0\eserciziLista.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\obj\Debug\net10.0\eserciziLista.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\obj\Debug\net10.0\refint\eserciziLista.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\obj\Debug\net10.0\eserciziLista.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\obj\Debug\net10.0\eserciziLista.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_24_Febbraio\pomeriggio\eserciziLista\obj\Debug\net10.0\ref\eserciziLista.dll

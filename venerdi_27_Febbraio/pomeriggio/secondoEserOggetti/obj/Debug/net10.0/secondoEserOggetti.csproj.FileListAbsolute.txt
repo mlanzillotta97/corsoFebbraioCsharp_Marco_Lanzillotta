@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\bin\Debug\net10.0\secondoEserOggetti.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\bin\Debug\net10.0\secondoEserOggetti.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\bin\Debug\net10.0\secondoEserOggetti.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\bin\Debug\net10.0\secondoEserOggetti.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\bin\Debug\net10.0\secondoEserOggetti.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\obj\Debug\net10.0\secondoEserOggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\obj\Debug\net10.0\secondoEserOggetti.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\obj\Debug\net10.0\secondoEserOggetti.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\obj\Debug\net10.0\secondoEserOggetti.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\obj\Debug\net10.0\secondoEserOggetti.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\obj\Debug\net10.0\secondoEserOggetti.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\obj\Debug\net10.0\refint\secondoEserOggetti.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\obj\Debug\net10.0\secondoEserOggetti.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\obj\Debug\net10.0\secondoEserOggetti.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\pomeriggio\secondoEserOggetti\obj\Debug\net10.0\ref\secondoEserOggetti.dll

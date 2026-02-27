@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\bin\Debug\net10.0\eserClassiAdOggetti.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\bin\Debug\net10.0\eserClassiAdOggetti.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\bin\Debug\net10.0\eserClassiAdOggetti.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\bin\Debug\net10.0\eserClassiAdOggetti.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\bin\Debug\net10.0\eserClassiAdOggetti.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\obj\Debug\net10.0\eserClassiAdOggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\obj\Debug\net10.0\eserClassiAdOggetti.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\obj\Debug\net10.0\eserClassiAdOggetti.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\obj\Debug\net10.0\eserClassiAdOggetti.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\obj\Debug\net10.0\eserClassiAdOggetti.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\obj\Debug\net10.0\eserClassiAdOggetti.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\obj\Debug\net10.0\refint\eserClassiAdOggetti.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\obj\Debug\net10.0\eserClassiAdOggetti.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\obj\Debug\net10.0\eserClassiAdOggetti.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_27_Febbraio\mattina\eserClassiAdOggetti\obj\Debug\net10.0\ref\eserClassiAdOggetti.dll

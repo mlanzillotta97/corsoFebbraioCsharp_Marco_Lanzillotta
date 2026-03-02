@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\bin\Debug\net10.0\eserClassiOggetti.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\bin\Debug\net10.0\eserClassiOggetti.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\bin\Debug\net10.0\eserClassiOggetti.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\bin\Debug\net10.0\eserClassiOggetti.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\bin\Debug\net10.0\eserClassiOggetti.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\obj\Debug\net10.0\eserClassiOggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\obj\Debug\net10.0\eserClassiOggetti.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\obj\Debug\net10.0\eserClassiOggetti.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\obj\Debug\net10.0\eserClassiOggetti.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\obj\Debug\net10.0\eserClassiOggetti.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\obj\Debug\net10.0\eserClassiOggetti.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\obj\Debug\net10.0\refint\eserClassiOggetti.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\obj\Debug\net10.0\eserClassiOggetti.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\obj\Debug\net10.0\eserClassiOggetti.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\mattina\eserClassiOggetti\obj\Debug\net10.0\ref\eserClassiOggetti.dll

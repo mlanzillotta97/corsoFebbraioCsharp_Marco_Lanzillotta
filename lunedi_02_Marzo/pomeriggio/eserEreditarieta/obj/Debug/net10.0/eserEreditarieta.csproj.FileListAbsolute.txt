@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\bin\Debug\net10.0\eserEreditarieta.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\bin\Debug\net10.0\eserEreditarieta.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\bin\Debug\net10.0\eserEreditarieta.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\bin\Debug\net10.0\eserEreditarieta.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\bin\Debug\net10.0\eserEreditarieta.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\obj\Debug\net10.0\eserEreditarieta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\obj\Debug\net10.0\eserEreditarieta.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\obj\Debug\net10.0\eserEreditarieta.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\obj\Debug\net10.0\eserEreditarieta.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\obj\Debug\net10.0\eserEreditarieta.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\obj\Debug\net10.0\eserEreditarieta.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\obj\Debug\net10.0\refint\eserEreditarieta.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\obj\Debug\net10.0\eserEreditarieta.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\obj\Debug\net10.0\eserEreditarieta.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserEreditarieta\obj\Debug\net10.0\ref\eserEreditarieta.dll

@@ -211,7 +211,7 @@ class Program
 }
 
 */
-
+/*
 using System;
 
 class Program
@@ -279,3 +279,4 @@ class Program
         macchinaScelta.StampaDettagli();
     }
 }
+*/

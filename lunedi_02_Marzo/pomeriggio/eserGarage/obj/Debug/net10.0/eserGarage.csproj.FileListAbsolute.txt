@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\bin\Debug\net10.0\eserGarage.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\bin\Debug\net10.0\eserGarage.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\bin\Debug\net10.0\eserGarage.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\bin\Debug\net10.0\eserGarage.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\bin\Debug\net10.0\eserGarage.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\obj\Debug\net10.0\eserGarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\obj\Debug\net10.0\eserGarage.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\obj\Debug\net10.0\eserGarage.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\obj\Debug\net10.0\eserGarage.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\obj\Debug\net10.0\eserGarage.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\obj\Debug\net10.0\eserGarage.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\obj\Debug\net10.0\refint\eserGarage.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\obj\Debug\net10.0\eserGarage.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\obj\Debug\net10.0\eserGarage.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\eserGarage\obj\Debug\net10.0\ref\eserGarage.dll

@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\bin\Debug\net10.0\esercizi.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\bin\Debug\net10.0\esercizi.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\bin\Debug\net10.0\esercizi.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\bin\Debug\net10.0\esercizi.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\bin\Debug\net10.0\esercizi.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\obj\Debug\net10.0\esercizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\obj\Debug\net10.0\esercizi.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\obj\Debug\net10.0\esercizi.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\obj\Debug\net10.0\esercizi.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\obj\Debug\net10.0\esercizi.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\obj\Debug\net10.0\esercizi.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\obj\Debug\net10.0\refint\esercizi.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\obj\Debug\net10.0\esercizi.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\obj\Debug\net10.0\esercizi.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_02_Marzo\pomeriggio\esercizi\obj\Debug\net10.0\ref\esercizi.dll

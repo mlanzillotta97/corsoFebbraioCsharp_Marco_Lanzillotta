@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\bin\Debug\net10.0\eserEreditarietaAv.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\bin\Debug\net10.0\eserEreditarietaAv.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\bin\Debug\net10.0\eserEreditarietaAv.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\bin\Debug\net10.0\eserEreditarietaAv.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\bin\Debug\net10.0\eserEreditarietaAv.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\obj\Debug\net10.0\eserEreditarietaAv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\obj\Debug\net10.0\eserEreditarietaAv.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\obj\Debug\net10.0\eserEreditarietaAv.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\obj\Debug\net10.0\eserEreditarietaAv.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\obj\Debug\net10.0\eserEreditarietaAv.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\obj\Debug\net10.0\eserEreditarietaAv.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\obj\Debug\net10.0\refint\eserEreditarietaAv.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\obj\Debug\net10.0\eserEreditarietaAv.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\obj\Debug\net10.0\eserEreditarietaAv.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\eserEreditarietaAv\obj\Debug\net10.0\ref\eserEreditarietaAv.dll

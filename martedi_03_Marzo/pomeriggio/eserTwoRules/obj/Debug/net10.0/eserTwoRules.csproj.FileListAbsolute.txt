@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\bin\Debug\net10.0\eserTwoRules.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\bin\Debug\net10.0\eserTwoRules.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\bin\Debug\net10.0\eserTwoRules.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\bin\Debug\net10.0\eserTwoRules.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\bin\Debug\net10.0\eserTwoRules.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\obj\Debug\net10.0\eserTwoRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\obj\Debug\net10.0\eserTwoRules.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\obj\Debug\net10.0\eserTwoRules.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\obj\Debug\net10.0\eserTwoRules.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\obj\Debug\net10.0\eserTwoRules.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\obj\Debug\net10.0\eserTwoRules.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\obj\Debug\net10.0\refint\eserTwoRules.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\obj\Debug\net10.0\eserTwoRules.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\obj\Debug\net10.0\eserTwoRules.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserTwoRules\obj\Debug\net10.0\ref\eserTwoRules.dll

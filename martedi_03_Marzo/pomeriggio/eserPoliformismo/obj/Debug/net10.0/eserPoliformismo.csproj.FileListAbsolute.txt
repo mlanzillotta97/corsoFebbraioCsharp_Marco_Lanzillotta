@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\bin\Debug\net10.0\eserPoliformismo.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\bin\Debug\net10.0\eserPoliformismo.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\bin\Debug\net10.0\eserPoliformismo.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\bin\Debug\net10.0\eserPoliformismo.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\bin\Debug\net10.0\eserPoliformismo.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\obj\Debug\net10.0\eserPoliformismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\obj\Debug\net10.0\eserPoliformismo.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\obj\Debug\net10.0\eserPoliformismo.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\obj\Debug\net10.0\eserPoliformismo.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\obj\Debug\net10.0\eserPoliformismo.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\obj\Debug\net10.0\eserPoliformismo.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\obj\Debug\net10.0\refint\eserPoliformismo.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\obj\Debug\net10.0\eserPoliformismo.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\obj\Debug\net10.0\eserPoliformismo.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\eserPoliformismo\obj\Debug\net10.0\ref\eserPoliformismo.dll

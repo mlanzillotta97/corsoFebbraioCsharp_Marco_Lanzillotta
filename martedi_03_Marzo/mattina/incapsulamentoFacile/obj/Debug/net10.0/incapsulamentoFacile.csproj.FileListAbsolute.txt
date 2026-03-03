@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\bin\Debug\net10.0\incapsulamentoFacile.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\bin\Debug\net10.0\incapsulamentoFacile.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\bin\Debug\net10.0\incapsulamentoFacile.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\bin\Debug\net10.0\incapsulamentoFacile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\bin\Debug\net10.0\incapsulamentoFacile.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\obj\Debug\net10.0\incapsulamentoFacile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\obj\Debug\net10.0\incapsulamentoFacile.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\obj\Debug\net10.0\incapsulamentoFacile.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\obj\Debug\net10.0\incapsulamentoFacile.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\obj\Debug\net10.0\incapsulamentoFacile.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\obj\Debug\net10.0\incapsulamentoFacile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\obj\Debug\net10.0\refint\incapsulamentoFacile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\obj\Debug\net10.0\incapsulamentoFacile.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\obj\Debug\net10.0\incapsulamentoFacile.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamentoFacile\obj\Debug\net10.0\ref\incapsulamentoFacile.dll

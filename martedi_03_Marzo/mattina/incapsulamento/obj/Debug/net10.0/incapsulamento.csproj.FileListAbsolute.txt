@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\bin\Debug\net10.0\incapsulamento.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\bin\Debug\net10.0\incapsulamento.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\bin\Debug\net10.0\incapsulamento.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\bin\Debug\net10.0\incapsulamento.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\bin\Debug\net10.0\incapsulamento.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\obj\Debug\net10.0\incapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\obj\Debug\net10.0\incapsulamento.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\obj\Debug\net10.0\incapsulamento.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\obj\Debug\net10.0\incapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\obj\Debug\net10.0\incapsulamento.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\obj\Debug\net10.0\incapsulamento.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\obj\Debug\net10.0\refint\incapsulamento.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\obj\Debug\net10.0\incapsulamento.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\obj\Debug\net10.0\incapsulamento.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\mattina\incapsulamento\obj\Debug\net10.0\ref\incapsulamento.dll

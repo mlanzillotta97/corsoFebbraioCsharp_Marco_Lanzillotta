@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\bin\Debug\net10.0\provePoliformismo.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\bin\Debug\net10.0\provePoliformismo.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\bin\Debug\net10.0\provePoliformismo.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\bin\Debug\net10.0\provePoliformismo.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\bin\Debug\net10.0\provePoliformismo.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\obj\Debug\net10.0\provePoliformismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\obj\Debug\net10.0\provePoliformismo.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\obj\Debug\net10.0\provePoliformismo.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\obj\Debug\net10.0\provePoliformismo.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\obj\Debug\net10.0\provePoliformismo.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\obj\Debug\net10.0\provePoliformismo.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\obj\Debug\net10.0\refint\provePoliformismo.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\obj\Debug\net10.0\provePoliformismo.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\obj\Debug\net10.0\provePoliformismo.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_03_Marzo\pomeriggio\provePoliformismo\obj\Debug\net10.0\ref\provePoliformismo.dll

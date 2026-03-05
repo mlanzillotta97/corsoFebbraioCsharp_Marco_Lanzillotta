@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\bin\Debug\net10.0\eserRecap.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\bin\Debug\net10.0\eserRecap.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\bin\Debug\net10.0\eserRecap.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\bin\Debug\net10.0\eserRecap.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\bin\Debug\net10.0\eserRecap.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\obj\Debug\net10.0\eserRecap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\obj\Debug\net10.0\eserRecap.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\obj\Debug\net10.0\eserRecap.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\obj\Debug\net10.0\eserRecap.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\obj\Debug\net10.0\eserRecap.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\obj\Debug\net10.0\eserRecap.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\obj\Debug\net10.0\refint\eserRecap.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\obj\Debug\net10.0\eserRecap.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\obj\Debug\net10.0\eserRecap.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\pomeriggio\eserRecap\obj\Debug\net10.0\ref\eserRecap.dll

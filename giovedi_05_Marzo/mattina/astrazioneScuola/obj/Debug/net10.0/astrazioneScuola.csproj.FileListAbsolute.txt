@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\bin\Debug\net10.0\astrazioneScuola.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\bin\Debug\net10.0\astrazioneScuola.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\bin\Debug\net10.0\astrazioneScuola.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\bin\Debug\net10.0\astrazioneScuola.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\bin\Debug\net10.0\astrazioneScuola.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\obj\Debug\net10.0\astrazioneScuola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\obj\Debug\net10.0\astrazioneScuola.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\obj\Debug\net10.0\astrazioneScuola.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\obj\Debug\net10.0\astrazioneScuola.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\obj\Debug\net10.0\astrazioneScuola.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\obj\Debug\net10.0\astrazioneScuola.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\obj\Debug\net10.0\refint\astrazioneScuola.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\obj\Debug\net10.0\astrazioneScuola.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\obj\Debug\net10.0\astrazioneScuola.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneScuola\obj\Debug\net10.0\ref\astrazioneScuola.dll

@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\bin\Debug\net10.0\astrazioneMedio.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\bin\Debug\net10.0\astrazioneMedio.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\bin\Debug\net10.0\astrazioneMedio.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\bin\Debug\net10.0\astrazioneMedio.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\bin\Debug\net10.0\astrazioneMedio.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\obj\Debug\net10.0\astrazioneMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\obj\Debug\net10.0\astrazioneMedio.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\obj\Debug\net10.0\astrazioneMedio.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\obj\Debug\net10.0\astrazioneMedio.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\obj\Debug\net10.0\astrazioneMedio.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\obj\Debug\net10.0\astrazioneMedio.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\obj\Debug\net10.0\refint\astrazioneMedio.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\obj\Debug\net10.0\astrazioneMedio.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\obj\Debug\net10.0\astrazioneMedio.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneMedio\obj\Debug\net10.0\ref\astrazioneMedio.dll

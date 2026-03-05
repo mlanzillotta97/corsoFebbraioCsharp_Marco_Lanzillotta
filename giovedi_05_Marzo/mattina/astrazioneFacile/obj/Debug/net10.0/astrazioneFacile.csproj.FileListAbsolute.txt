@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\bin\Debug\net10.0\astrazioneFacile.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\bin\Debug\net10.0\astrazioneFacile.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\bin\Debug\net10.0\astrazioneFacile.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\bin\Debug\net10.0\astrazioneFacile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\bin\Debug\net10.0\astrazioneFacile.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\obj\Debug\net10.0\astrazioneFacile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\obj\Debug\net10.0\astrazioneFacile.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\obj\Debug\net10.0\astrazioneFacile.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\obj\Debug\net10.0\astrazioneFacile.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\obj\Debug\net10.0\astrazioneFacile.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\obj\Debug\net10.0\astrazioneFacile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\obj\Debug\net10.0\refint\astrazioneFacile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\obj\Debug\net10.0\astrazioneFacile.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\obj\Debug\net10.0\astrazioneFacile.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\astrazioneFacile\obj\Debug\net10.0\ref\astrazioneFacile.dll

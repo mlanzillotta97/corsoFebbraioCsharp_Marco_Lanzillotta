@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "eserAstrazione/1.0.0": {
+        "runtime": {
+          "eserAstrazione.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eserAstrazione/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

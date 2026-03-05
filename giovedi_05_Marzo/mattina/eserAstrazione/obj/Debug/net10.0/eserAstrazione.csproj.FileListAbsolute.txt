@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\bin\Debug\net10.0\eserAstrazione.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\bin\Debug\net10.0\eserAstrazione.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\bin\Debug\net10.0\eserAstrazione.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\bin\Debug\net10.0\eserAstrazione.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\bin\Debug\net10.0\eserAstrazione.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\obj\Debug\net10.0\eserAstrazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\obj\Debug\net10.0\eserAstrazione.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\obj\Debug\net10.0\eserAstrazione.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\obj\Debug\net10.0\eserAstrazione.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\obj\Debug\net10.0\eserAstrazione.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\obj\Debug\net10.0\eserAstrazione.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\obj\Debug\net10.0\refint\eserAstrazione.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\obj\Debug\net10.0\eserAstrazione.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\obj\Debug\net10.0\eserAstrazione.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_05_Marzo\mattina\eserAstrazione\obj\Debug\net10.0\ref\eserAstrazione.dll

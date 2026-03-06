@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\bin\Debug\net10.0\eserFattoria.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\bin\Debug\net10.0\eserFattoria.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\bin\Debug\net10.0\eserFattoria.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\bin\Debug\net10.0\eserFattoria.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\bin\Debug\net10.0\eserFattoria.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\obj\Debug\net10.0\eserFattoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\obj\Debug\net10.0\eserFattoria.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\obj\Debug\net10.0\eserFattoria.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\obj\Debug\net10.0\eserFattoria.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\obj\Debug\net10.0\eserFattoria.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\obj\Debug\net10.0\eserFattoria.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\obj\Debug\net10.0\refint\eserFattoria.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\obj\Debug\net10.0\eserFattoria.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\obj\Debug\net10.0\eserFattoria.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\venerdi_06_Marzo\mattina\eserFattoria\obj\Debug\net10.0\ref\eserFattoria.dll

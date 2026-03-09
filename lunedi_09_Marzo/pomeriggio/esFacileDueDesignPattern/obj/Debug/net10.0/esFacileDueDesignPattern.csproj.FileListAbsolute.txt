@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\bin\Debug\net10.0\esFacileDueDesignPattern.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\bin\Debug\net10.0\esFacileDueDesignPattern.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\bin\Debug\net10.0\esFacileDueDesignPattern.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\bin\Debug\net10.0\esFacileDueDesignPattern.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\bin\Debug\net10.0\esFacileDueDesignPattern.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\obj\Debug\net10.0\esFacileDueDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\obj\Debug\net10.0\esFacileDueDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\obj\Debug\net10.0\esFacileDueDesignPattern.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\obj\Debug\net10.0\esFacileDueDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\obj\Debug\net10.0\esFacileDueDesignPattern.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\obj\Debug\net10.0\esFacileDueDesignPattern.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\obj\Debug\net10.0\refint\esFacileDueDesignPattern.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\obj\Debug\net10.0\esFacileDueDesignPattern.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\obj\Debug\net10.0\esFacileDueDesignPattern.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDueDesignPattern\obj\Debug\net10.0\ref\esFacileDueDesignPattern.dll

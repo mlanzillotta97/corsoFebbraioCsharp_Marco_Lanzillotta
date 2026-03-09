@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\bin\Debug\net10.0\designPattern.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\bin\Debug\net10.0\designPattern.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\bin\Debug\net10.0\designPattern.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\bin\Debug\net10.0\designPattern.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\bin\Debug\net10.0\designPattern.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\obj\Debug\net10.0\designPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\obj\Debug\net10.0\designPattern.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\obj\Debug\net10.0\designPattern.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\obj\Debug\net10.0\designPattern.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\obj\Debug\net10.0\designPattern.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\obj\Debug\net10.0\designPattern.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\obj\Debug\net10.0\refint\designPattern.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\obj\Debug\net10.0\designPattern.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\obj\Debug\net10.0\designPattern.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\designPattern\obj\Debug\net10.0\ref\designPattern.dll

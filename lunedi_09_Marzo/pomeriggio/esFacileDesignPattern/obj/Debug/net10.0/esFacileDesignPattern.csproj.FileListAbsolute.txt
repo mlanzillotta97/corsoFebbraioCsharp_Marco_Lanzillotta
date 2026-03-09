@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\bin\Debug\net10.0\esFacileDesignPattern.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\bin\Debug\net10.0\esFacileDesignPattern.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\bin\Debug\net10.0\esFacileDesignPattern.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\bin\Debug\net10.0\esFacileDesignPattern.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\bin\Debug\net10.0\esFacileDesignPattern.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\obj\Debug\net10.0\esFacileDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\obj\Debug\net10.0\esFacileDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\obj\Debug\net10.0\esFacileDesignPattern.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\obj\Debug\net10.0\esFacileDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\obj\Debug\net10.0\esFacileDesignPattern.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\obj\Debug\net10.0\esFacileDesignPattern.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\obj\Debug\net10.0\refint\esFacileDesignPattern.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\obj\Debug\net10.0\esFacileDesignPattern.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\obj\Debug\net10.0\esFacileDesignPattern.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\pomeriggio\esFacileDesignPattern\obj\Debug\net10.0\ref\esFacileDesignPattern.dll

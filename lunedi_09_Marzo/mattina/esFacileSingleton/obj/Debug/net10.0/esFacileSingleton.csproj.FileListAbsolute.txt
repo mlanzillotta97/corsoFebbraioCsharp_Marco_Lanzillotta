@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\bin\Debug\net10.0\esFacileSingleton.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\bin\Debug\net10.0\esFacileSingleton.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\bin\Debug\net10.0\esFacileSingleton.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\bin\Debug\net10.0\esFacileSingleton.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\bin\Debug\net10.0\esFacileSingleton.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\obj\Debug\net10.0\esFacileSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\obj\Debug\net10.0\esFacileSingleton.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\obj\Debug\net10.0\esFacileSingleton.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\obj\Debug\net10.0\esFacileSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\obj\Debug\net10.0\esFacileSingleton.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\obj\Debug\net10.0\esFacileSingleton.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\obj\Debug\net10.0\refint\esFacileSingleton.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\obj\Debug\net10.0\esFacileSingleton.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\obj\Debug\net10.0\esFacileSingleton.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\lunedi_09_Marzo\mattina\esFacileSingleton\obj\Debug\net10.0\ref\esFacileSingleton.dll

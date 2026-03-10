@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "observerEsFacile", "observerEsFacile.csproj", "{EC0429FC-44A3-FC73-46FB-79868D21B1F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0429FC-44A3-FC73-46FB-79868D21B1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0429FC-44A3-FC73-46FB-79868D21B1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0429FC-44A3-FC73-46FB-79868D21B1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0429FC-44A3-FC73-46FB-79868D21B1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CAD8180-BD0E-4BA5-9FB6-27E487DB2671}
+	EndGlobalSection
+EndGlobal

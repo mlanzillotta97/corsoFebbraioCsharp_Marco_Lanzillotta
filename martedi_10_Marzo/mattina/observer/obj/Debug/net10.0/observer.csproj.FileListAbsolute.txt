@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\bin\Debug\net10.0\observer.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\bin\Debug\net10.0\observer.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\bin\Debug\net10.0\observer.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\bin\Debug\net10.0\observer.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\bin\Debug\net10.0\observer.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\obj\Debug\net10.0\observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\obj\Debug\net10.0\observer.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\obj\Debug\net10.0\observer.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\obj\Debug\net10.0\observer.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\obj\Debug\net10.0\observer.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\obj\Debug\net10.0\observer.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\obj\Debug\net10.0\refint\observer.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\obj\Debug\net10.0\observer.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\obj\Debug\net10.0\observer.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observer\obj\Debug\net10.0\ref\observer.dll

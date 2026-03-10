@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\bin\Debug\net10.0\creazioneUtenteObserver.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\bin\Debug\net10.0\creazioneUtenteObserver.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\bin\Debug\net10.0\creazioneUtenteObserver.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\bin\Debug\net10.0\creazioneUtenteObserver.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\bin\Debug\net10.0\creazioneUtenteObserver.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\obj\Debug\net10.0\creazioneUtenteObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\obj\Debug\net10.0\creazioneUtenteObserver.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\obj\Debug\net10.0\creazioneUtenteObserver.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\obj\Debug\net10.0\creazioneUtenteObserver.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\obj\Debug\net10.0\creazioneUtenteObserver.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\obj\Debug\net10.0\creazioneUtenteObserver.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\obj\Debug\net10.0\refint\creazioneUtenteObserver.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\obj\Debug\net10.0\creazioneUtenteObserver.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\obj\Debug\net10.0\creazioneUtenteObserver.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\creazioneUtenteObserver\obj\Debug\net10.0\ref\creazioneUtenteObserver.dll

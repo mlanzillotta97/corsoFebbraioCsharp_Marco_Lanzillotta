@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\bin\Debug\net10.0\observerEsFacile.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\bin\Debug\net10.0\observerEsFacile.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\bin\Debug\net10.0\observerEsFacile.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\bin\Debug\net10.0\observerEsFacile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\bin\Debug\net10.0\observerEsFacile.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\obj\Debug\net10.0\observerEsFacile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\obj\Debug\net10.0\observerEsFacile.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\obj\Debug\net10.0\observerEsFacile.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\obj\Debug\net10.0\observerEsFacile.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\obj\Debug\net10.0\observerEsFacile.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\obj\Debug\net10.0\observerEsFacile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\obj\Debug\net10.0\refint\observerEsFacile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\obj\Debug\net10.0\observerEsFacile.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\obj\Debug\net10.0\observerEsFacile.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\observerEsFacile\obj\Debug\net10.0\ref\observerEsFacile.dll

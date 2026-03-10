@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\bin\Debug\net10.0\esDesignPatternEsDuePattern.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\bin\Debug\net10.0\esDesignPatternEsDuePattern.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\bin\Debug\net10.0\esDesignPatternEsDuePattern.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\bin\Debug\net10.0\esDesignPatternEsDuePattern.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\bin\Debug\net10.0\esDesignPatternEsDuePattern.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\obj\Debug\net10.0\esDesignPatternEsDuePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\obj\Debug\net10.0\esDesignPatternEsDuePattern.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\obj\Debug\net10.0\esDesignPatternEsDuePattern.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\obj\Debug\net10.0\esDesignPatternEsDuePattern.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\obj\Debug\net10.0\esDesignPatternEsDuePattern.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\obj\Debug\net10.0\esDesignPatternEsDuePattern.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\obj\Debug\net10.0\refint\esDesignPatternEsDuePattern.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\obj\Debug\net10.0\esDesignPatternEsDuePattern.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\obj\Debug\net10.0\esDesignPatternEsDuePattern.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\mattina\esDesignPatternEsDuePattern\obj\Debug\net10.0\ref\esDesignPatternEsDuePattern.dll

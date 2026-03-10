@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\bin\Debug\net10.0\newsAgencyObserver.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\bin\Debug\net10.0\newsAgencyObserver.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\bin\Debug\net10.0\newsAgencyObserver.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\bin\Debug\net10.0\newsAgencyObserver.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\bin\Debug\net10.0\newsAgencyObserver.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\obj\Debug\net10.0\newsAgencyObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\obj\Debug\net10.0\newsAgencyObserver.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\obj\Debug\net10.0\newsAgencyObserver.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\obj\Debug\net10.0\newsAgencyObserver.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\obj\Debug\net10.0\newsAgencyObserver.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\obj\Debug\net10.0\newsAgencyObserver.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\obj\Debug\net10.0\refint\newsAgencyObserver.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\obj\Debug\net10.0\newsAgencyObserver.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\obj\Debug\net10.0\newsAgencyObserver.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\newsAgencyObserver\obj\Debug\net10.0\ref\newsAgencyObserver.dll

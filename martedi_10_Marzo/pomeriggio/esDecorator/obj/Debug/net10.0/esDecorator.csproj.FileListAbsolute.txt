@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\bin\Debug\net10.0\esDecorator.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\bin\Debug\net10.0\esDecorator.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\bin\Debug\net10.0\esDecorator.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\bin\Debug\net10.0\esDecorator.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\bin\Debug\net10.0\esDecorator.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\obj\Debug\net10.0\esDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\obj\Debug\net10.0\esDecorator.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\obj\Debug\net10.0\esDecorator.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\obj\Debug\net10.0\esDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\obj\Debug\net10.0\esDecorator.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\obj\Debug\net10.0\esDecorator.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\obj\Debug\net10.0\refint\esDecorator.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\obj\Debug\net10.0\esDecorator.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\obj\Debug\net10.0\esDecorator.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\esDecorator\obj\Debug\net10.0\ref\esDecorator.dll

@@ -6,13 +6,10 @@ namespace ObserverUtenti
     {
         static void Main(string[] args)
         {
-            GestoreCreazioneUtente gestore = new GestoreCreazioneUtente();
+            GestoreCreazioneUtente gestore = GestoreCreazioneUtente.Instance;
 
             ModuloLog log = new ModuloLog();
             ModuloMarketing marketing = new ModuloMarketing();
-
-            bool logRegistrato = false;
-            bool marketingRegistrato = false;
 
             bool continua = true;
 
@@ -22,8 +19,7 @@ namespace ObserverUtenti
                 Console.WriteLine("1 - Registra Modulo Log");
                 Console.WriteLine("2 - Registra Modulo Marketing");
                 Console.WriteLine("3 - Crea nuovo utente");
-                Console.WriteLine("4 - Rimuovi Modulo Log");
-                Console.WriteLine("5 - Rimuovi Modulo Marketing");
+                Console.WriteLine("4 - Verifica Singleton");
                 Console.WriteLine("0 - Esci");
                 Console.Write("Scelta: ");
 
@@ -32,29 +28,13 @@ namespace ObserverUtenti
                 switch (scelta)
                 {
                     case "1":
-                        if (!logRegistrato)
-                        {
-                            gestore.Registra(log);
-                            logRegistrato = true;
-                            Console.WriteLine("Modulo Log registrato.");
-                        }
-                        else
-                        {
-                            Console.WriteLine("Modulo Log già registrato.");
-                        }
+                        gestore.Registra(log);
+                        Console.WriteLine("Modulo Log registrato.");
                         break;
 
                     case "2":
-                        if (!marketingRegistrato)
-                        {
-                            gestore.Registra(marketing);
-                            marketingRegistrato = true;
-                            Console.WriteLine("Modulo Marketing registrato.");
-                        }
-                        else
-                        {
-                            Console.WriteLine("Modulo Marketing già registrato.");
-                        }
+                        gestore.Registra(marketing);
+                        Console.WriteLine("Modulo Marketing registrato.");
                         break;
 
                     case "3":
@@ -64,15 +44,11 @@ namespace ObserverUtenti
                         break;
 
                     case "4":
-                        gestore.Rimuovi(log);
-                        logRegistrato = false;
-                        Console.WriteLine("Modulo Log rimosso.");
-                        break;
+                        var g1 = GestoreCreazioneUtente.Instance;
+                        var g2 = GestoreCreazioneUtente.Instance;
 
-                    case "5":
-                        gestore.Rimuovi(marketing);
-                        marketingRegistrato = false;
-                        Console.WriteLine("Modulo Marketing rimosso.");
+                        Console.WriteLine("Stessa istanza?");
+                        Console.WriteLine(Object.ReferenceEquals(g1, g2));
                         break;
 
                     case "0":

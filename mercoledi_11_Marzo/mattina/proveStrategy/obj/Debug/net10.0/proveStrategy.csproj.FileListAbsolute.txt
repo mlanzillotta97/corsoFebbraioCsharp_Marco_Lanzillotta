@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\bin\Debug\net10.0\proveStrategy.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\bin\Debug\net10.0\proveStrategy.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\bin\Debug\net10.0\proveStrategy.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\bin\Debug\net10.0\proveStrategy.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\bin\Debug\net10.0\proveStrategy.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\obj\Debug\net10.0\proveStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\obj\Debug\net10.0\proveStrategy.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\obj\Debug\net10.0\proveStrategy.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\obj\Debug\net10.0\proveStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\obj\Debug\net10.0\proveStrategy.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\obj\Debug\net10.0\proveStrategy.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\obj\Debug\net10.0\refint\proveStrategy.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\obj\Debug\net10.0\proveStrategy.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\obj\Debug\net10.0\proveStrategy.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\proveStrategy\obj\Debug\net10.0\ref\proveStrategy.dll

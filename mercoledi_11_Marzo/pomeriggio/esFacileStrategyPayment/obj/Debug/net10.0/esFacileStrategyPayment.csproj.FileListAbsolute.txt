@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\bin\Debug\net10.0\esFacileStrategyPayment.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\bin\Debug\net10.0\esFacileStrategyPayment.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\bin\Debug\net10.0\esFacileStrategyPayment.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\bin\Debug\net10.0\esFacileStrategyPayment.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\bin\Debug\net10.0\esFacileStrategyPayment.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\obj\Debug\net10.0\esFacileStrategyPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\obj\Debug\net10.0\esFacileStrategyPayment.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\obj\Debug\net10.0\esFacileStrategyPayment.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\obj\Debug\net10.0\esFacileStrategyPayment.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\obj\Debug\net10.0\esFacileStrategyPayment.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\obj\Debug\net10.0\esFacileStrategyPayment.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\obj\Debug\net10.0\refint\esFacileStrategyPayment.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\obj\Debug\net10.0\esFacileStrategyPayment.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\obj\Debug\net10.0\esFacileStrategyPayment.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPayment\obj\Debug\net10.0\ref\esFacileStrategyPayment.dll

@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\bin\Debug\net10.0\decorator.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\bin\Debug\net10.0\decorator.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\bin\Debug\net10.0\decorator.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\bin\Debug\net10.0\decorator.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\bin\Debug\net10.0\decorator.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\obj\Debug\net10.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\obj\Debug\net10.0\decorator.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\obj\Debug\net10.0\decorator.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\obj\Debug\net10.0\decorator.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\obj\Debug\net10.0\decorator.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\obj\Debug\net10.0\decorator.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\obj\Debug\net10.0\refint\decorator.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\obj\Debug\net10.0\decorator.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\obj\Debug\net10.0\decorator.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\martedi_10_Marzo\pomeriggio\decorator\obj\Debug\net10.0\ref\decorator.dll

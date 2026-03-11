@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\bin\Debug\net10.0\esFacileStrategyPiatto.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\bin\Debug\net10.0\esFacileStrategyPiatto.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\bin\Debug\net10.0\esFacileStrategyPiatto.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\bin\Debug\net10.0\esFacileStrategyPiatto.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\bin\Debug\net10.0\esFacileStrategyPiatto.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\obj\Debug\net10.0\esFacileStrategyPiatto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\obj\Debug\net10.0\esFacileStrategyPiatto.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\obj\Debug\net10.0\esFacileStrategyPiatto.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\obj\Debug\net10.0\esFacileStrategyPiatto.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\obj\Debug\net10.0\esFacileStrategyPiatto.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\obj\Debug\net10.0\esFacileStrategyPiatto.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\obj\Debug\net10.0\refint\esFacileStrategyPiatto.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\obj\Debug\net10.0\esFacileStrategyPiatto.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\obj\Debug\net10.0\esFacileStrategyPiatto.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\pomeriggio\esFacileStrategyPiatto\obj\Debug\net10.0\ref\esFacileStrategyPiatto.dll

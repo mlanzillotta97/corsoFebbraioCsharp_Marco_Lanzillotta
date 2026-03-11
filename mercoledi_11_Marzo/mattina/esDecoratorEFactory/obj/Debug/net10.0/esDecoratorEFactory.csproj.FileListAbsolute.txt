@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\bin\Debug\net10.0\esDecoratorEFactory.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\bin\Debug\net10.0\esDecoratorEFactory.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\bin\Debug\net10.0\esDecoratorEFactory.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\bin\Debug\net10.0\esDecoratorEFactory.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\bin\Debug\net10.0\esDecoratorEFactory.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\obj\Debug\net10.0\esDecoratorEFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\obj\Debug\net10.0\esDecoratorEFactory.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\obj\Debug\net10.0\esDecoratorEFactory.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\obj\Debug\net10.0\esDecoratorEFactory.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\obj\Debug\net10.0\esDecoratorEFactory.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\obj\Debug\net10.0\esDecoratorEFactory.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\obj\Debug\net10.0\refint\esDecoratorEFactory.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\obj\Debug\net10.0\esDecoratorEFactory.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\obj\Debug\net10.0\esDecoratorEFactory.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esDecoratorEFactory\obj\Debug\net10.0\ref\esDecoratorEFactory.dll

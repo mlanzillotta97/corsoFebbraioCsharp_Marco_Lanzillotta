@@ -5,7 +5,24 @@ namespace ObserverUtenti
 {
     class GestoreCreazioneUtente : ISoggetto
     {
+        private static GestoreCreazioneUtente instance;
+
         private List<IObserver> osservatori = new List<IObserver>();
+
+        // Costruttore privato
+        private GestoreCreazioneUtente() { }
+
+        // Singleton
+        public static GestoreCreazioneUtente Instance
+        {
+            get
+            {
+                if (instance == null)
+                    instance = new GestoreCreazioneUtente();
+
+                return instance;
+            }
+        }
 
         public void Registra(IObserver o)
         {

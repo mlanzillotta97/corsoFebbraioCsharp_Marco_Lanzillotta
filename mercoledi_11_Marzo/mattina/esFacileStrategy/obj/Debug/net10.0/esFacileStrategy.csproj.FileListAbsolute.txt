@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\bin\Debug\net10.0\esFacileStrategy.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\bin\Debug\net10.0\esFacileStrategy.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\bin\Debug\net10.0\esFacileStrategy.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\bin\Debug\net10.0\esFacileStrategy.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\bin\Debug\net10.0\esFacileStrategy.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\obj\Debug\net10.0\esFacileStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\obj\Debug\net10.0\esFacileStrategy.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\obj\Debug\net10.0\esFacileStrategy.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\obj\Debug\net10.0\esFacileStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\obj\Debug\net10.0\esFacileStrategy.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\obj\Debug\net10.0\esFacileStrategy.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\obj\Debug\net10.0\refint\esFacileStrategy.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\obj\Debug\net10.0\esFacileStrategy.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\obj\Debug\net10.0\esFacileStrategy.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\mercoledi_11_Marzo\mattina\esFacileStrategy\obj\Debug\net10.0\ref\esFacileStrategy.dll

@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\bin\Debug\net10.0\esFacadeFacile.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\bin\Debug\net10.0\esFacadeFacile.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\bin\Debug\net10.0\esFacadeFacile.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\bin\Debug\net10.0\esFacadeFacile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\bin\Debug\net10.0\esFacadeFacile.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\obj\Debug\net10.0\esFacadeFacile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\obj\Debug\net10.0\esFacadeFacile.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\obj\Debug\net10.0\esFacadeFacile.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\obj\Debug\net10.0\esFacadeFacile.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\obj\Debug\net10.0\esFacadeFacile.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\obj\Debug\net10.0\esFacadeFacile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\obj\Debug\net10.0\refint\esFacadeFacile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\obj\Debug\net10.0\esFacadeFacile.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\obj\Debug\net10.0\esFacadeFacile.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\esFacadeFacile\obj\Debug\net10.0\ref\esFacadeFacile.dll

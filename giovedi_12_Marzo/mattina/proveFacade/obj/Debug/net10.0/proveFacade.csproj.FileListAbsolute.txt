@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\bin\Debug\net10.0\proveFacade.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\bin\Debug\net10.0\proveFacade.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\bin\Debug\net10.0\proveFacade.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\bin\Debug\net10.0\proveFacade.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\bin\Debug\net10.0\proveFacade.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\obj\Debug\net10.0\proveFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\obj\Debug\net10.0\proveFacade.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\obj\Debug\net10.0\proveFacade.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\obj\Debug\net10.0\proveFacade.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\obj\Debug\net10.0\proveFacade.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\obj\Debug\net10.0\proveFacade.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\obj\Debug\net10.0\refint\proveFacade.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\obj\Debug\net10.0\proveFacade.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\obj\Debug\net10.0\proveFacade.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\giovedi_12_Marzo\mattina\proveFacade\obj\Debug\net10.0\ref\proveFacade.dll

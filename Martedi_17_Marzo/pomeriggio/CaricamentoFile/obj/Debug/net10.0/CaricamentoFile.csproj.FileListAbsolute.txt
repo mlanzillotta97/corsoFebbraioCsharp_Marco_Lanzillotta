@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\bin\Debug\net10.0\CaricamentoFile.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\bin\Debug\net10.0\CaricamentoFile.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\bin\Debug\net10.0\CaricamentoFile.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\bin\Debug\net10.0\CaricamentoFile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\bin\Debug\net10.0\CaricamentoFile.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\obj\Debug\net10.0\CaricamentoFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\obj\Debug\net10.0\CaricamentoFile.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\obj\Debug\net10.0\CaricamentoFile.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\obj\Debug\net10.0\CaricamentoFile.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\obj\Debug\net10.0\CaricamentoFile.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\obj\Debug\net10.0\CaricamentoFile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\obj\Debug\net10.0\refint\CaricamentoFile.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\obj\Debug\net10.0\CaricamentoFile.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\obj\Debug\net10.0\CaricamentoFile.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\CaricamentoFile\obj\Debug\net10.0\ref\CaricamentoFile.dll

@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\bin\Debug\net10.0\DataExporter.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\bin\Debug\net10.0\DataExporter.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\bin\Debug\net10.0\DataExporter.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\bin\Debug\net10.0\DataExporter.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\bin\Debug\net10.0\DataExporter.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\obj\Debug\net10.0\DataExporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\obj\Debug\net10.0\DataExporter.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\obj\Debug\net10.0\DataExporter.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\obj\Debug\net10.0\DataExporter.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\obj\Debug\net10.0\DataExporter.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\obj\Debug\net10.0\DataExporter.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\obj\Debug\net10.0\refint\DataExporter.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\obj\Debug\net10.0\DataExporter.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\obj\Debug\net10.0\DataExporter.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\DataExporter\obj\Debug\net10.0\ref\DataExporter.dll

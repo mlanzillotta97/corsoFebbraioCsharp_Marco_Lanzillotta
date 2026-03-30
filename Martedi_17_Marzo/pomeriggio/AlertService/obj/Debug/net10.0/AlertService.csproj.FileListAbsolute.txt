@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\bin\Debug\net10.0\AlertService.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\bin\Debug\net10.0\AlertService.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\bin\Debug\net10.0\AlertService.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\bin\Debug\net10.0\AlertService.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\bin\Debug\net10.0\AlertService.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\obj\Debug\net10.0\AlertService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\obj\Debug\net10.0\AlertService.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\obj\Debug\net10.0\AlertService.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\obj\Debug\net10.0\AlertService.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\obj\Debug\net10.0\AlertService.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\obj\Debug\net10.0\AlertService.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\obj\Debug\net10.0\refint\AlertService.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\obj\Debug\net10.0\AlertService.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\obj\Debug\net10.0\AlertService.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\AlertService\obj\Debug\net10.0\ref\AlertService.dll

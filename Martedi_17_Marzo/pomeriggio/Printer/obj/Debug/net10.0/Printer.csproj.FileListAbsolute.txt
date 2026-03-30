@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\bin\Debug\net10.0\Printer.exe
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\bin\Debug\net10.0\Printer.deps.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\bin\Debug\net10.0\Printer.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\bin\Debug\net10.0\Printer.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\bin\Debug\net10.0\Printer.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\obj\Debug\net10.0\Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\obj\Debug\net10.0\Printer.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\obj\Debug\net10.0\Printer.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\obj\Debug\net10.0\Printer.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\obj\Debug\net10.0\Printer.sourcelink.json
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\obj\Debug\net10.0\Printer.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\obj\Debug\net10.0\refint\Printer.dll
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\obj\Debug\net10.0\Printer.pdb
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\obj\Debug\net10.0\Printer.genruntimeconfig.cache
+C:\Users\Marco\Documents\GitHub\corsoFebbraioCsharp\Martedi_17_Marzo\pomeriggio\Printer\obj\Debug\net10.0\ref\Printer.dll
